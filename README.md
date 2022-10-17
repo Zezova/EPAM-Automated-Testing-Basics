@@ -1,2 +1,2 @@
 # EPAM-Automated-Testing-Basics
-Learn
+epam
